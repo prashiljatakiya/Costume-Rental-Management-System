@@ -2,9 +2,13 @@
 Costume-Rental-management-System is a simple database management project aimed at helping costume rental shops to keep track of their costumes, footwear, jewellery, and props. The owners can easily manage their items by this system which is made using python, tkinter and mysql database which is easy to understand and use as well.  
 
 ![A](https://github.com/prashiljatakiya/Costume-Rental-Management-System/assets/92420541/1c4da944-3e2f-40d3-a4f4-18ef0e9f3a6e)
+
 ![B](https://github.com/prashiljatakiya/Costume-Rental-Management-System/assets/92420541/741c4b98-7964-4555-996a-94d83f5a307b)
+
 ![CC](https://github.com/prashiljatakiya/Costume-Rental-Management-System/assets/92420541/05dc766c-f6a1-41fd-90b0-a93300c09ef4)
+
 ![DD](https://github.com/prashiljatakiya/Costume-Rental-Management-System/assets/92420541/f5ee302d-e7e3-4052-9559-2faa6effd514)
+
 ![EE](https://github.com/prashiljatakiya/Costume-Rental-Management-System/assets/92420541/a0735602-64d2-4f38-8594-2fd9dc7ea110)
 
 
